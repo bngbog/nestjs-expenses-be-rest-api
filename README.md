@@ -57,4 +57,5 @@ $ yarn run start:prod
 - Expenses functionality: crud, list by filters such as week, totals
 - Adding passport and guards to control route access
 - Testing
+- Swagger documentation
 
